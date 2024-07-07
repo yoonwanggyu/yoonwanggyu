@@ -33,7 +33,7 @@
 <br>
 <h3 align="center">📬 Contact 📬</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/@wangy_uuu-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   <img src="https://img.shields.io/badge/wanggyu3467@GMAIL.COM-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/yog3467@NAVER.COM-03C75A?style=flat-square&logo=naver&logoColor=white"/>
 </div>
