@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&fontAlignY=50&fontAlign=50&section=header&text=WangGyu%20Yoon&desc=&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&fontAlignY=50&fontAlign=70&section=header&text=WangGyu%20Yoon&fontSize=50&desc=@wangy_uuu&descSize=20&descAlign=83)
 <div align=center>
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
