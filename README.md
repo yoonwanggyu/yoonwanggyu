@@ -5,7 +5,7 @@
   <a href="https://www.notion.so/Who-AM-I-e25c53613e384f1da025439d13bb9e6d?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </div>
 
-<br>
+----------------
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 </div>
 
-<br>
+----------------
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
-<br>
+----------------
   
 <h3 align="center">📬 Contact 📬</h3>
 <div align="center">
