@@ -1,13 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&fontAlignY=50&fontAlign=70&section=header&text=WangGyu%20Yoon&fontSize=50&desc=@wangy_uuu&descSize=20&descAlign=83)
 
-<h3 align="center">🙂 Profile 🙂</h3>
-<div align="center">
-  <a href="https://www.notion.so/Who-AM-I-e25c53613e384f1da025439d13bb9e6d?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-</div>
-<br>
 <h3 align="center">🏆 Prize 🏆</h3>
 <div align="center">
-  제6회 KB AI Challenge 최우수상 수상
+제6회 KB AI Challenge 최우수상 수상
 </div>
 <br>
 <h3 align="center">✨ Tech Stack ✨</h3>
