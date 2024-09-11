@@ -2,7 +2,7 @@
 
 <h3 align="center">🏆 Prize 🏆</h3>
 <div align="center">
-제6회 KB AI Challenge 최우수상 수상
+[국민은행]제6회 Future Finance AI Challenge 최우수상 수상
 </div>
 <br>
 <h3 align="center">✨ Tech Stack ✨</h3>
