@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/langgraph-041E42?style=for-the-badge&logo=langgraph&logoColor=white"/> 
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 </div>
 
@@ -63,14 +64,14 @@
 
 - **Agentic RAG 기반 소아마취 업무지원 챗봇 : 소마챗**
   - 기간 : 2025.02 ~ 07
-  - 역할 : Langgraph 기반 전체 Agent 플로우 개발 & Slack MCP 연결 & GitHub 관리 
-  - 내용 : 서울대학교병원 의생명정보학 연구실(BMI Lab)과의 공동 연구를 통해, 정확하고 신뢰도 높은 처치 판단을 지원하는 의료 특화 AI Agent 개발
+  - 역할 : Langgraph 기반 전체 Agent 플로우 개발 & Slack MCP 연결 
+  - 내용 : 서울대학교병원 의생명정보학 연구실(BMI Lab)과의 공동 연구를 통해 소아마취 특화 AI Agent 개발
   - GitHub : [소마챗 레포 바로가기 🔗](https://github.com/yoonwanggyu/Pediatric_Anesthesia_Agent)
 
 - **Kard-Toon**  
   - 기간 : 2024.07 ~ 08
   - 역할 : LangChain 기반 RAG 시스템 구현 & 최종 발표
-  - 내용 : 대규모 언어 모델(LLM)과 이미지 생성 모델(stable diffusion)을 결합하여 새로운 형태의 마케팅 방식 개발
+  - 내용 : LLM과 이미지 생성 모델(Stable Diffusion)을 결합하여 새로운 형태의 마케팅 방식 개발
   - GitHub : [Kard-Toon 레포 바로가기 🔗](https://github.com/yoonwanggyu/KB-AI-Challenge)
  
 - **Other Projects**  
@@ -78,4 +79,7 @@
   - Book Recommendation : [Book Recommendation 레포 바로가기 🔗](https://github.com/yoonwanggyu/Book-Recommendation)
   - Alpaco Bootcamp : [Alpaco Bootcamp 레포 바로가기 🔗](https://github.com/yoonwanggyu/Alpaco_BootCamp_Project)
 
+ <h2>🛠 What I’ve Been Building</h2>
+ 
+![Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonwanggyu&hide=contribs,prs&show_icons=true&theme=github_dark)
 
