@@ -32,8 +32,8 @@
 <h2>📌 주요 경험</h2>
 
 - 🔬 **PTKOREA LLM Engineer Intern** 
-- 💡 **BOAZ** –
-- 🚀 **9기 Alpaco BootCamp** –
+- 💡 **빅데이터 연합동아리 'BOAZ' 데이터 분석 & 엔지니어링 부문 23기** 
+- 🚀 **9기 Alpaco Deeplearning BootCamp** 
 - 👤 **38기 신한은행 대학생 홍보대사**
 
 
