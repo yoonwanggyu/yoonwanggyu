@@ -26,15 +26,16 @@
   <img src="https://img.shields.io/badge/langgraph-041E42?style=for-the-badge&logo=langgraph&logoColor=white"/> 
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 </div>
 
 
-<h2>📌 주요 경험</h2>
+<h2>📌 Career & Community Experience </h2>
 
-- 🔬 **PTKOREA LLM Engineer Intern** 
-- 💡 **빅데이터 연합동아리 'BOAZ' 데이터 분석 & 엔지니어링 부문 23기** 
-- 🚀 **9기 Alpaco Deeplearning BootCamp** 
-- 👤 **38기 신한은행 대학생 홍보대사**
+- 💼 **PTKOREA QA Platform Team (Intern)** (2024.12 ~ 2025.09)
+- 🐘 **빅데이터 연합동아리 'BOAZ' 데이터 분석 & 엔지니어링 부문 23기** (2024.07 ~ 2025.07)
+- 📚 **Alpaco 딥러닝 부트캠프 9기** (2024.02 ~ 2024.08)
+- 👤 **신한은행 대학생 홍보대사 38기** (2023. 02 ~ 2023.07)
 
 
 <h2>🏆 대회 경험</h2>
