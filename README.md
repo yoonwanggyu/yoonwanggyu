@@ -41,6 +41,7 @@
 <h2>💼 Internship </h2>
 
 - PTKOREA QA Platform Team | 2024.12 ~ 2025.09
+- Dankook University IRDM Lab | 2025.10 ~
   
 <h2>🌱 Community Experience </h2>
 
