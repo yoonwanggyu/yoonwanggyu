@@ -3,11 +3,11 @@
 <h2 align="center">📍 About Me</h2>
 
 <p align="center">
-  Hi there! 👋 <br>
-  I'm an aspiring <b>LLM Engineer</b> with a strong interest in solving problems and boosting productivity through advanced <b>LLM</b>.<br><br>
-  I'm particularly interested in building <b>AI Agents</b> using <b>LangChain</b> and <b>LangGraph</b>, implementing <b>MCP</b> for seamless tool integration, and developing <b>domain-specific RAG</b> systems that enhance LLMs with external knowledge.<br><br>
-  My current focus lies in reinforcement learning–based LLM tuning (e.g., RLHF, PPO, DPO) and in exploring advanced RAG methodologies—such as domain-specific embedding adaptation, hybrid and metadata-aware retrieval strategies, and end-to-end retriever–generator optimization—to push the boundary of knowledge-intensive applications.<br><br>
-  I'm passionate about bridging the gap between research and practice—diving into cutting-edge papers and turning insights into practical, production-ready AI systems.
+  👋 Hi there! <br><br>
+  I'm an aspiring <b>AI Engineer</b> passionate about building practical, accessible AI services for everyone.<br><br>
+  My current focus is advancing beyond traditional LLMs—exploring <b>Agentic AI</b> architectures, <b>domain-specific RAG</b>, and <b>adaptive recommendation systems</b>.<br><br>
+  I'm particularly interested in improving retrieval efficiency, reasoning capability, and real-world alignment through <b>augmentation, optimization, and tool-oriented autonomy</b>.<br><br>
+  My goal is to bridge cutting-edge research with production environments—turning ideas into reliable, impactful systems.
 </p>
 
 <p align="center">
