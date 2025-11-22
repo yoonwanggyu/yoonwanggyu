@@ -42,6 +42,7 @@
 
 - PTKOREA QA Platform Team | 2024.12 ~ 2025.09
 - Dankook University IRDM Lab | 2025.10 ~
+  - Link : [IRDM Lab 바로가기 🔗](https://dku-irdm.github.io/)
   
 <h2>🌱 Community Experience </h2>
 
