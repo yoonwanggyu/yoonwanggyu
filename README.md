@@ -84,7 +84,3 @@
   - Book Recommendation : [Book Recommendation 레포 바로가기 🔗](https://github.com/yoonwanggyu/Book-Recommendation)
   - Alpaco Bootcamp : [Alpaco Bootcamp 레포 바로가기 🔗](https://github.com/yoonwanggyu/Alpaco_BootCamp_Project)
 
- <h2>🛠 What I’ve Been Building</h2>
- 
-![Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonwanggyu&hide=contribs,prs&show_icons=true&theme=github_dark)
-
