@@ -4,10 +4,10 @@
 
 <p align="center">
   👋 Hi there! <br><br>
-  I'm an aspiring <b>AI Engineer</b> passionate about building practical, accessible AI services for everyone.<br><br>
-  My current focus is advancing beyond traditional LLMs—exploring <b>Agentic AI</b> architectures, <b>domain-specific RAG</b>, and <b>adaptive recommendation systems</b>.<br><br>
-  I'm particularly interested in improving retrieval efficiency, reasoning capability, and real-world alignment through <b>augmentation, optimization, and tool-oriented autonomy</b>.<br><br>
-  My goal is to bridge cutting-edge research with production environments—turning ideas into reliable, impactful systems.
+  Aspiring NLP AI Researcher. <br><br>
+  I am deeply interested in <b>RAG</b> and currently researching <b>Parametric RAG</b>.<br><br>
+  I also focus on efficient training methods like <b>LoRA</b> and <b>MoE</b>.<br><br>
+  Please feel free to contact me.
 </p>
 
 <p align="center">
@@ -40,9 +40,9 @@
 
 <h2>💼 Internship </h2>
 
-- PTKOREA QA Platform Team | 2024.12 ~ 2025.09
 - Dankook University IRDM Lab | 2025.10 ~
   - Link : [IRDM Lab 바로가기 🔗](https://dku-irdm.github.io/)
+- PTKOREA QA Platform Team | 2024.12 ~ 2025.09
   
 <h2>🌱 Community Experience </h2>
 
