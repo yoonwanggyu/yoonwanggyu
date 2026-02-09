@@ -40,7 +40,7 @@
 
 <h2>💼 Work Experience </h2>
 
-- PTKOREA | QA Platform Team (Intern) | 2024.12 – 2025.09
+- PTKOREA | QA Platform Team (Intern) | 2024.12 ~ 2025.09
 
 <h2>🔬 Research Experience </h2>
 - Dankook University IRDM Lab (Undergraduate Research Intern) | 2025.10 ~ Present
