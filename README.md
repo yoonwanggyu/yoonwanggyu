@@ -36,27 +36,28 @@
 
 <h2>🎓 Major </h2>
 
-- Dankook University, Department of Applied Statistics | 2021.03 ~
+- Dankook University, Department of Applied Statistics | 2021.03 ~ Present
 
-<h2>💼 Internship </h2>
+<h2>💼 Work Experience </h2>
 
-- Dankook University IRDM Lab | 2025.10 ~
-  - Link : [IRDM Lab 바로가기 🔗](https://dku-irdm.github.io/)
-- PTKOREA QA Platform Team | 2024.12 ~ 2025.09
+- PTKOREA | QA Platform Team (Intern) | 2024.12 – 2025.09
+
+<h2>🔬 Research Experience </h2>
+- Dankook University IRDM Lab (Undergraduate Research Intern) | 2025.10 ~ Present
   
+  - Link : [IRDM Lab 바로가기 🔗](https://dku-irdm.github.io/)
+
 <h2>🌱 Community Experience </h2>
 
 - 빅데이터 연합동아리 'BOAZ' 데이터 분석 & 엔지니어링 부문 23기 | 2024.07 ~ 2025.07
 - Alpaco 딥러닝 부트캠프 9기 | 2024.02 ~ 08
 - 신한은행 대학생 홍보대사 38기 | 2023. 02 ~ 07
 
-
 <h2>🏆 Competition Experience</h2>
 
 - 제9회 미래에셋증권 AI Festival | 2025.06 ~ 07
-- 제 6회 KB국민은행 Future Finance AI Challenge | 2024.07 ~ 08
-  - 🥈 최우수상 수상
-- 제6회 교육 공공데이터 활용 경진대회 | 2024.04 ~ 07
+- 제6회 KB국민은행 Future Finance AI Challenge | 🥈 최우수상 수상 | 2024.07 ~ 08
+- 제6회 교육 공공데이터 활용 경진대회 | 본선 진출 | 2024.04 ~ 07
 
 
 <h2>📝 Project Experience</h2>
