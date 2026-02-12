@@ -43,9 +43,9 @@
 - PTKOREA | QA Platform Team (Intern) | 2024.12 ~ 2025.09
 
 <h2>🔬 Research Experience </h2>
+
 - Dankook University IRDM Lab (Undergraduate Research Intern) | 2025.10 ~ Present
-  
-  - Link : [IRDM Lab 바로가기 🔗](https://dku-irdm.github.io/)
+  - [IRDM Lab 바로가기 🔗](https://dku-irdm.github.io/)
 
 <h2>🌱 Community Experience </h2>
 
