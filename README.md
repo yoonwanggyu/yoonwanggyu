@@ -5,8 +5,9 @@
 <p align="center">
   👋 Hi there! <br><br>
   Aspiring NLP AI Researcher. <br><br>
-  I am deeply interested in <b>RAG</b> and currently researching <b>Parametric RAG</b>.<br><br>
-  I also focus on efficient training methods like <b>LoRA</b> and <b>MoE</b>.<br><br>
+  Researching noise robustness in <b>Parametric RAG.</b><br><br>
+  Currently focused on developing decoding strategies via <b>uncertainty quantification</b><br><br>
+  <b>to identify unanswerable queries when using retrieved document LoRAs.</b> <br><br>
   Please feel free to contact me.
 </p>
 
