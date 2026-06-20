@@ -5,9 +5,9 @@
 <p align="center">
   👋 Hi there! <br><br>
   Aspiring NLP AI Researcher. <br><br>
-  Researching noise robustness in <b>Parametric RAG.</b><br><br>
-  Currently focused on developing decoding strategies via <b>uncertainty quantification</b><br><br>
-  <b>to identify unanswerable queries when using retrieved document LoRAs.</b> <br><br>
+  Exploring <b>Parametric RAG</b> & <b>LoRA Interpretability.</b> <br><br>
+  What knowledge does LoRA <i>actually</i> encode? <br><br>
+  Working toward efficient, <b>hypernetwork-based LoRA generation.</b> <br><br>
   Please feel free to contact me.
 </p>
 
