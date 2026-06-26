@@ -4,11 +4,11 @@
 
 <p align="center">
   👋 Hi there! <br><br>
-  Aspiring NLP AI Researcher. <br><br>
-  Exploring <b>Parametric RAG</b> & <b>LoRA Interpretability.</b> <br><br>
-  What knowledge does LoRA <i>actually</i> encode? <br><br>
-  Working toward efficient, <b>hypernetwork-based LoRA generation.</b> <br><br>
-  Please feel free to contact me.
+  Aspiring NLP researcher, studying LLMs as objects of science. <br><br>
+  Interested in <b>Parametric RAG</b>, <b>LoRA</b>, and <b>mechanistic interpretability</b>. <br><br>
+  What knowledge does a LoRA update <i>actually</i> encode, and how is it structured in weight space? <br><br>
+  Working toward <b>knowledge-grounded LoRA generation</b> for gradient-free domain adaptation. <br><br>
+  Please feel free to reach out.
 </p>
 
 <p align="center">
@@ -47,6 +47,11 @@
 
 - Dankook University IRDM Lab (Undergraduate Research Intern) | 2025.10 ~ Present
   - [IRDM Lab 바로가기 🔗](https://dku-irdm.github.io/)
+ 
+<h2>📄 Publications </h2>
+
+- **WangGyu Yoon**, Jinseok Seol. "Noise Filtering for Parametric RAG via Latent Distribution Alignment." KCC 2026. [[code]](https://github.com/yoonwanggyu/PRAG-LDA)
+
 
 <h2>🌱 Community Experience </h2>
 
