@@ -5,9 +5,9 @@
 <p align="center">
   👋 Hi there! <br><br>
   Aspiring NLP researcher, studying LLMs as objects of science. <br><br>
-  Interested in <b>Parametric RAG</b>, <b>LoRA</b>, and <b>mechanistic interpretability</b>. <br><br>
-  What knowledge does a LoRA update <i>actually</i> encode, and how is it structured in weight space? <br><br>
-  Working toward <b>knowledge-grounded LoRA generation</b> for gradient-free domain adaptation. <br><br>
+  Interested in <b>Parametric RAG</b>, <b>LoRA</b>, and <b>weight-space interpretability</b>. <br><br>
+  What knowledge does a LoRA update actually encode, and how is it structured in weight space? <br><br>
+  I probe these updates to understand what they store, working toward <b>knowledge-grounded LoRA generation</b> for gradient-free domain adaptation. <br><br>
   Please feel free to reach out.
 </p>
 
