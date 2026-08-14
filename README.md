@@ -47,7 +47,7 @@
  
 <h2>📄 Publications </h2>
 
-- **WangGyu Yoon**, Jinseok Seol. "Noise Filtering for Parametric RAG via Latent Distribution Alignment." KCC 2026.
+- **Wanggyu Yoon**, Jinseok Seol. "Noise Filtering for Parametric RAG via Latent Distribution Alignment." KCC 2026.
   - [[paper]](https://drive.google.com/file/d/1KubjcY8Fv7zAsQpPu45KQ0d8q2oA5IvG/view?usp=sharing)[[code]](https://github.com/yoonwanggyu/PRAG_LDA)
 
 
