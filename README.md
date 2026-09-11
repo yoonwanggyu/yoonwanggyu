@@ -60,8 +60,9 @@
 
 <h2>🏆 Competition Experience</h2>
 
+- 제10회 미래에셋증권 AI Festival | 2026.08 ~ 09
 - 제9회 미래에셋증권 AI Festival | 2025.06 ~ 07
-- 제6회 KB국민은행 Future Finance AI Challenge | 🥈 최우수상(KB 국민은행상) 수상 | 2024.07 ~ 08
+- 제6회 KB국민은행 Future Finance AI Challenge | **🥈 최우수상(KB 국민은행상) 수상** | 2024.07 ~ 08
 - 제6회 교육 공공데이터 활용 경진대회 | 본선 진출 | 2024.04 ~ 07
 
 
