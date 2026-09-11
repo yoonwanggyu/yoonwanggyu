@@ -72,7 +72,7 @@
   - 기간 : 2026.08 ~ 09
   - 역할 : 의도 검증·조건 교정 노드, 조회 계획·의존성 스케줄러 노드, NL2SQL 로직 구현
   - 내용 : 국내채권·국내ETF·해외ETF·공모펀드에 대한 자연어 질문을 분석하고, RDB·GraphDB·VectorDB를 질문에 맞게 조합해 답변하는 Agent
-  - GitHub : [금양유호! 레포 바로가기 🔗]((https://github.com/yoonwanggyu/2026_10th_MIRAE-ASSET_AI-Festival))
+  - GitHub : [금융야호! 레포 바로가기 🔗](https://github.com/yoonwanggyu/2026_10th_MIRAE-ASSET_AI-Festival)
 
 - **투자대법관 : FIN문철**
   - 기간 : 2025.06 ~ 07
