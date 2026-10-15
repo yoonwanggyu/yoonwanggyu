@@ -4,8 +4,7 @@
 
 <p align="center">
   👋 Hi there! <br><br>
-  Aspiring NLP researcher, studying and building with LLMs <br><br>
-  Interested in RAG and autonomous AI agents
+  Building practical AI agents with LLMs and RAG.
 </p>
 
 <p align="center">
